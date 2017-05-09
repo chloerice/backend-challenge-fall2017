@@ -122,7 +122,7 @@
       ]
     },{
       "id":9,
-      "fulfilled":[false, "skip: no cookies in order"],
+      "fulfilled":[false, "fulfill: no cookies in order"],
       "customer_email":"gabriel@interview.com",
       "products":[
         {
