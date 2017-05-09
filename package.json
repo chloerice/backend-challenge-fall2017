@@ -4,7 +4,8 @@
   "description": "The backend code challenge for Shopify's 2017 Developer Intern application.",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./index.js",
+    "start": "node ./index.js",
+    "dev": "nodemon ./index.js",
     "test": "mocha ./api.test.js"
   },
   "engines": {
